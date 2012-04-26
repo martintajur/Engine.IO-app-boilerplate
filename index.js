@@ -100,7 +100,6 @@ server.on('connection', function (client) {
 		delete clientsData[client.id];
 	
 	});
-
 });
 
 var sendData = function(toClient, message) {
@@ -134,4 +133,3 @@ var handlers = {
 		// do some custom stuff
 	}
 };
-
