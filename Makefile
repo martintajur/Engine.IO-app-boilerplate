@@ -14,3 +14,4 @@ build:
 	npm install ./node_modules/engine.io
 	make -C ./node_modules/engine.io-client build
 	cp ./node_modules/engine.io-client/dist/engine.io.js ./public/js/engine.io.js
+	echo 'Everything worked!'
