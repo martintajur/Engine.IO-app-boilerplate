@@ -7,7 +7,8 @@ A lightweight boilerplate application for creating real-time application on top 
 Get started
 ===========
 
-```git clone git://github.com/martintajur/Engine.IO-app-boilerplate.git
+```
+git clone git://github.com/martintajur/Engine.IO-app-boilerplate.git
 cd Engine.IO-app-boilerplate
 make build
 node .
