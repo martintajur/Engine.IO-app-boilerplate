@@ -49,7 +49,7 @@ var clientsData = {
 */
 };
 
-log('Server started');
+log('Server started. Now point your browser to http://localhost:3000/');
 
 server.on('connection', function (client) {
 
