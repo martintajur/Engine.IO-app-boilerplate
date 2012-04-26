@@ -39,4 +39,4 @@ I compiled this for a friend and thought it might be useful to share with others
 
 ## Licence
 
-The MIT License
+The MIT License (http://www.opensource.org/licenses/MIT), Copyright (c) 2012 Martin Tajur
