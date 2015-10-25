@@ -1,0 +1,29 @@
+{
+  "name": "engine-io-boilerplate",
+  "version": "1.0.0",
+  "description": "A lightweight boilerplate application for creating real-time applications on top of Engine.IO. Fast and easy.",
+  "main": "index.js",
+  "dependencies": {
+    "browserbuild": "^0.7.0",
+    "debug": "^2.2.0",
+    "engine.io": "^1.5.4",
+    "engine.io-client": "^1.5.4",
+    "node-static": "^0.7.7",
+    "websocket.io": "^0.2.1",
+    "ws": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martintajur/Engine.IO-app-boilerplate.git"
+  },
+  "author": "martin <martin@pipedrive.com> (http://www.pipedrive.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martintajur/Engine.IO-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/martintajur/Engine.IO-app-boilerplate#readme"
+}
